@@ -1,0 +1,19 @@
+{
+  "name": "coding101_backend",
+  "version": "1.0.0",
+  "description": "Server for Coding101!!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Singh-rauthan/Coding101_backend.git"
+  },
+  "author": "Aditya Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Singh-rauthan/Coding101_backend/issues"
+  },
+  "homepage": "https://github.com/Aditya-Singh-rauthan/Coding101_backend#readme"
+}
